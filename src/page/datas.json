@@ -1,0 +1,39 @@
+{
+    "hsCode": "HS123456",
+    "spuImg": "http://xg-shopone.oss-cn-shanghai.aliyuncs.com/product/1552622088203.png?Expires=4706222082&OSSAccessKeyId=LTAIdRrvSRXmnqP9&Signature=v//CZHksr1RuLa8l8UKQ6DmGd4M%3D,http://xg-shopone.oss-cn-shanghai.aliyuncs.com/product/1552622140989.jpg?Expires=4706222131&OSSAccessKeyId=LTAIdRrvSRXmnqP9&Signature=/gw%2BSW4LFazkeGsVHHxlqB1jGEo%3D",
+    "brandId": "1",
+    "name": "苹果8",
+    "category1Id": "1",
+    "category2Id": "2",
+    "description": "测试添加",
+    "secondAttribute": [{
+            "secondAttributeId": "1003",
+            "secondAttributeValue": "1024*768",
+            "secondAttributenType": "text"
+        },
+        {
+            "secondAttributeId": "1004",
+            "secondAttributeValue": "2GB",
+            "secondAttributenType": "option"
+        }
+    ],
+    "fixSex": "0",
+    "sku": [{
+            "barCode": "10011003",
+            "saleOptionId": "1001,1003",
+            "stock": 10,
+            "supplyPrice": "3000",
+            "tagPrice": "5000",
+            "skuImgList":[{"name":"12","url":"https://ss3.bdstatic.com/yrwDcj7w0QhBkMak8IuT_XF5ehU5bvGh7c50/logopic/f92eaa82260a2dbb710fa82d56a7cb42_fullsize.jpg@s_1,w_484,h_484"},{"name":"123","url":"https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3179575860,69414948&fm=58&bpow=650&bpoh=417"}]
+        },
+        {
+            "barCode": "10011004",
+            "saleOptionId": "1001,1004",
+            "stock": 20,
+            "supplyPrice": "3500",
+            "tagPrice": "6000",
+            "skuImgList":[{"name":"123","url":"https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3179575860,69414948&fm=58&bpow=650&bpoh=417"}]
+        }
+    ],
+    "details":"为<img src=http://xg-shopone.oss-cn-shanghai.aliyuncs.com/product/1552622088203.png?Expires=4706222082&OSSAccessKeyId=LTAIdRrvSRXmnqP9&Signature=v//CZHksr1RuLa8l8UKQ6DmGd4M%3D  width=165 style=cursor: nwse-resize;>订单"
+}

@@ -1,0 +1,34 @@
+{
+
+    "productLists": [{
+            "spu": 1,
+            "img": "//gd4.alicdn.com/imgextra/i4/3355529119/O1CN016Q4HZi2HEYEZ7RzdB_!!3355529119.png",
+            "type": "热门爆款",
+            "status":"未供货",
+            "count": 123,
+            "price": 100
+
+        },
+        {
+            "spu": 2,
+            "img": "https://img.alicdn.com/imgextra/i3/728397059/O1CN01cWGepv2214JZM2TKa_!!728397059.jpg_430x430q90.jpg",
+            "type": "热门爆款",
+            "status":"未供货",
+            "count": 123,
+            "price": 100
+
+        },
+        {
+            "spu": 3,
+            "img": "//gd4.alicdn.com/imgextra/i4/3355529119/O1CN016Q4HZi2HEYEZ7RzdB_!!3355529119.png",
+            "type": "热门爆款",
+            "status":"未供货",
+            "count": 123,
+            "price": 100
+
+        }
+
+    ],
+    "totalCount":3
+
+}

@@ -1,0 +1,88 @@
+{
+
+    "billLists": [{
+            "billNO": 10012344334,
+            "billDate": "2018-12-23",
+            "skuMoney": 12,
+            "status": "待打款",
+            "sumCount": 22,
+            "yunfei": 10
+        },
+        {
+            "billNO": 1002,
+            "billDate": "2018-12-23",
+            "skuMoney": 12,
+            "status": "已打款",
+            "sumCount": 22,
+            "yunfei": 10
+        },
+        {
+            "billNO": 1003,
+            "billDate": "2018-12-23",
+            "skuMoney": 12,
+            "status": "待打款",
+            "sumCount": 22,
+            "yunfei": 10
+        }
+
+
+    ],
+    "yfList": [{
+        "type": "发货单快递",
+        "expressName": "顺丰",
+        "expressNo":3276378463,
+        "yunfei": 12,
+        "rzyunfei": 120
+    }, {
+        "type": "发货单快递",
+        "expressName": "顺丰",
+        "expressNo":3276378465,
+        "yunfei": 12,
+        "rzyunfei": 120
+    }, {
+        "type": "发货单快递",
+        "expressName": "顺丰",
+        "expressNo":3276378434,
+        "yunfei": 12,
+        "rzyunfei": 120
+    }],
+    "zdList": [{
+        "orderNo":1236273,
+        "barCode":"48537868376hsdfjh34",
+        "guige":"红色 XL",
+        "sku":21736746,
+        "danjia":100,
+        "expressNo":3276378463,
+        "fhcount":5263,
+        "thcount":344,
+        "overDate":"2019-03-05",
+        "sumCount":10000
+
+    },{
+        "orderNo":1236273,
+        "barCode":"48537868376hsdfjh34",
+        "guige":"红色 XL",
+        "sku":21736746,
+        "danjia":100,
+        "expressNo":3276378463,
+        "fhcount":5263,
+        "thcount":344,
+        "overDate":"2019-03-05",
+        "sumCount":10000
+
+    },{
+        "orderNo":1236273,
+        "barCode":"48537868376hsdfjh34",
+        "guige":"红色 XL",
+        "sku":21736746,
+        "danjia":100,
+        "expressNo":3276378463,
+        "fhcount":5263,
+        "thcount":344,
+        "overDate":"2019-03-05",
+        "sumCount":10000
+
+
+    }],
+    "totalCount": 3
+}
